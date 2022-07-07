@@ -87,8 +87,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       image: 'img/aries-social-preview-layered.png',
+      twitterImage: 'img/aries-social-preview-layered.png',
       navbar: {
-        title: 'Aries JavaScript Docs',
+        title: 'Multiplatform SSI Development',
         logo: {
           alt: 'Hyperledger Aries Logo',
           src: 'img/aries-logo.png',
